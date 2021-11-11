@@ -1,7 +1,7 @@
 # discord.py-chatbot
 A easy to use discord chatbot that works with discord.py
 
-> Install the follwing python modules:
+> Install the following python modules:
 * discord
 * transformers
 
@@ -9,6 +9,6 @@ A easy to use discord chatbot that works with discord.py
 
 >*  Download the chatbot model from the [this](https://huggingface.co/facebook/blenderbot_small-90M) link and place it in the "models" folder
 
-> Configure the "config.json" file and add the discord bot token
+>* Configure the "config.json" file and add the discord bot token
 
 done :)
