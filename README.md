@@ -12,3 +12,8 @@ A easy to use discord chatbot that works with discord.py
 >* Configure the "config.json" file and add the discord bot token
 
 done :)
+
+
+> ![](https://media.discordapp.net/attachments/890158189394395189/908401552484597860/unknown.png)
+
+> ![After downloading the model, the "model" folder should have this sub-folder](https://media.discordapp.net/attachments/890158189394395189/908401700241543188/unknown.png) -   After downloading the model, the "model" folder should have this sub-folder
