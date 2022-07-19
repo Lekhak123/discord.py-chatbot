@@ -1,6 +1,6 @@
 import discord
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-mname = '../models/blenderbot_small-90M'
+mname = './models/blenderbot_small-90M'
 tokenizer = AutoTokenizer.from_pretrained(mname)
 model = AutoModelForSeq2SeqLM.from_pretrained(mname)
 import json
